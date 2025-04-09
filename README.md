@@ -9,7 +9,7 @@ Hi there! I'm a Computer Science student at Amikom Purwokerto University with a 
 * 🌍  I'm based in Indonesia, Central Java.
 * ✉️  You can contact me at [binarnugroho775@gmail.com](mailto:binarnugroho775@gmail.com)
 * 🧠  I'm currently learning Go (Golang), Backend-Web Development, Software Engineering and System Administration.
-* ⚡  Fun facts: I love cats.
+* ⚡  Fun facts: I love cats (>^◡^<), am a Linux enthusiast 🐧, and <i>I use Arch, btw</i>.
 
 ### Skills
 
