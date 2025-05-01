@@ -32,3 +32,10 @@ Hi there! I'm a Computer Science student at Amikom Purwokerto University with a 
 <a href="http://www.github.com/crazydw4rf"><img src="https://streak-stats.demolab.com/?user=crazydw4rf&border_radius=8&theme=radical" /></a>
 
 <a href="http://www.github.com/crazydw4rf"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=crazydw4rf&layout=compact" /></a>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crazydw4rf/crazydw4rf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crazydw4rf/crazydw4rf/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/crazydw4rf/crazydw4rf/output/pacman-contribution-graph.svg">
+</picture>
