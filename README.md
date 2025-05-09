@@ -4,12 +4,16 @@ Hi 👋 My name is Binar Nugroho
 Backend Developer | SysAdmin
 -----------------
 
-Hi there! I'm a Computer Science student at Amikom Purwokerto University with a passion for backend development. I'm still learning and growing, but I have a solid understanding of Go and JavaScript, and I'm proficient in using Docker for containerization and deployment. I've successfully built several backend applications using these technologies. I'm eager to learn new technologies and contribute to open-source projects. I have a strong curiosity and a desire to continuously improve my skills. Feel free to check out my repositories!
+Hi there! I'm a Computer Science student at Amikom Purwokerto University who is passionate about backend development. I'm currently on a learning journey, exploring and deepening my understanding of technologies like Go, JavaScript, and Docker. I've had the opportunity to build several backend applications as part of my learning process, and each project helps me grow a little more.
 
-* 🌍  I'm based in Indonesia, Central Java.
-* ✉️  You can contact me at [binarnugroho775@gmail.com](mailto:binarnugroho775@gmail.com)
-* 🧠  I'm currently learning Go (Golang), Backend-Web Development, Software Engineering and System Administration.
-* ⚡  Fun facts: I love cats (>^◡^<), am a Linux enthusiast 🐧, and <i>I use Arch, btw</i>.
+I'm also enthusiastic about Linux and love experimenting with different tools and systems. I enjoy contributing to open-source projects when I can, and I'm always curious to learn new things, improve my skills, and become a better developer over time.
+
+Feel free to explore my repositories — feedback and collaboration are always welcome!
+
+* 🌍 I'm based in Central Java, Indonesia.
+* ✉️ You can reach me at binarnugroho775@gmail.com
+* 🧠 I'm currently learning Go (Golang), backend web development, software engineering, and system administration.
+* ⚡ Fun fact: I love cats (>^◡^<), I'm a Linux enthusiast 🐧 — and yes, I use Arch, <i>btw</i>.
 
 ### Skills
 
