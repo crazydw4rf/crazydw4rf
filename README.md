@@ -1,10 +1,10 @@
 Hi 👋 My name is Binar Nugroho
 ==============================
 
-Backend Developer | SysAdmin
------------------
+<!--Backend Developer | SysAdmin
+----------------->
 
-Hi there! I'm a Computer Science student at Amikom Purwokerto University who is passionate about backend development. I'm currently on a learning journey, exploring and deepening my understanding of technologies like Go, JavaScript, and Docker. I've had the opportunity to build several backend applications as part of my learning process, and each project helps me grow a little more.
+I'm a Computer Science student at Amikom Purwokerto University who is passionate about backend development. I'm currently on a learning journey, exploring and deepening my understanding of technologies like Go, JavaScript, and Docker. I've had the opportunity to build several backend applications as part of my learning process, and each project helps me grow a little more.
 
 I'm also enthusiastic about Linux and love experimenting with different tools and systems. I enjoy contributing to open-source projects when I can, and I'm always curious to learn new things, improve my skills, and become a better developer over time.
 
