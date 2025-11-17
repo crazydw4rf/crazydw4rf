@@ -10,8 +10,7 @@ I'm also enthusiastic about Linux and love experimenting with different tools an
 
 Feel free to explore my repositories — feedback and collaboration are always welcome!
 
-* 🌍 I'm based in Central Java, Indonesia.
-* ✉️ You can reach me at binarnugroho775@gmail.com
+* 🌍 I'm based in Central Java, Indonesia
 * 🧠 I'm currently learning Go (Golang), backend web development, software engineering, and system administration.
 * ⚡ Fun fact: I love cats (>^◡^<), I'm a Linux enthusiast 🐧 — and yes, I use Arch, <i>btw</i>.
 
@@ -37,11 +36,8 @@ Feel free to explore my repositories — feedback and collaboration are always w
 
 <a href="http://www.github.com/crazydw4rf"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=crazydw4rf&layout=compact" /></a>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crazydw4rf/crazydw4rf/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crazydw4rf/crazydw4rf/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/crazydw4rf/crazydw4rf/output/pacman-contribution-graph.svg">
 </picture>
-
-<!-- <a href="https://x.com/crazydw4rf" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> -->
