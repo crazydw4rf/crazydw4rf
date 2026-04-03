@@ -11,7 +11,7 @@ I'm also enthusiastic about Linux and love experimenting with different tools an
 Feel free to explore my repositories — feedback and collaboration are always welcome!
 
 * 🌍 I'm based in Cilacap, Central Java, Indonesia.
-* 🧠 I'm currently learning Go (Golang), backend web development, software engineering, and system administration.
+* 🧠 I'm currently learning Rust, backend web development, software engineering, and system administration.
 * ⚡ Fun fact: I love cats (>^◡^<), I'm a Linux enthusiast 🐧 — and yes, I use Arch, <i>btw</i>.
 
 ### Skills
