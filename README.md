@@ -43,7 +43,7 @@ Feel free to explore my repositories — feedback and collaboration are always w
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/crazydw4rf"><img src="https://github-stats.crazydw4rf.tech/api?username=crazydw4rf&show_icons=true&hide=&count_private=true&border_radius=8&theme=radical" alt="crazydw4rf's GitHub stats" /></a>
+<a href="http://www.github.com/crazydw4rf"><img src="https://raw.githubusercontent.com/crazydw4rf/crazydw4rf/refs/heads/main/profile/stats.svg" alt="crazydw4rf's GitHub stats" /></a>
 
 <a href="http://www.github.com/crazydw4rf"><img src="https://streak-stats.demolab.com/?user=crazydw4rf&border_radius=8&theme=radical" /></a>
 
