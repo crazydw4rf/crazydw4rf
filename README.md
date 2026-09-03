@@ -47,7 +47,7 @@ Feel free to explore my repositories — feedback and collaboration are always w
 
 <a href="http://www.github.com/crazydw4rf"><img src="https://streak-stats.demolab.com/?user=crazydw4rf&border_radius=8&theme=radical" /></a>
 
-<a href="http://www.github.com/crazydw4rf"><img src="https://raw.githubusercontent.com/crazydw4rf/crazydw4rf/refs/heads/main/profile/top_langs.svg" /></a>
+<a href="http://www.github.com/crazydw4rf"><img src="https://raw.githubusercontent.com/crazydw4rf/crazydw4rf/refs/heads/main/profile/wakatime.svg" /></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/crazydw4rf/crazydw4rf/output/pacman-contribution-graph-dark.svg">
