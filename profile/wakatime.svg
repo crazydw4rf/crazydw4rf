@@ -138,33 +138,16 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="464.3025"
+            width="464.4885"
             height="8"
             fill="#dea584"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="464.3025"
-            y="0"
-            width="0.6975"
-            height="8"
-            fill="#9c4221"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust - 12 hrs 12 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#9c4221" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TOML - 1 min
+        Rust - 12 hrs 34 mins
       </text>
     </g>
   
