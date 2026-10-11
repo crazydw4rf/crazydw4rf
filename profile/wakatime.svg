@@ -138,7 +138,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="278.628"
+            width="265.794"
             height="8"
             fill="#dea584"
           />
@@ -146,9 +146,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="278.628"
+            x="265.794"
             y="0"
-            width="159.774"
+            width="178.37400000000002"
             height="8"
             fill="#00B4AB"
           />
@@ -156,9 +156,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="438.402"
+            x="444.168"
             y="0"
-            width="25.575"
+            width="17.948999999999998"
             height="8"
             fill="#083fa1"
           />
@@ -166,9 +166,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="463.977"
+            x="462.117"
             y="0"
-            width="1.023"
+            width="2.5575"
             height="8"
             fill="#9c4221"
           />
@@ -177,28 +177,28 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust - 4 hrs 48 mins
+        Rust - 6 hrs 53 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#00B4AB" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dart - 2 hrs 45 mins
+        Dart - 4 hrs 37 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 26 mins
+        Markdown - 27 mins
       </text>
     </g>
   
     <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#9c4221" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TOML - 1 min
+        TOML - 3 mins
       </text>
     </g>
   
