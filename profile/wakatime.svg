@@ -138,7 +138,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="265.794"
+            width="236.2665"
             height="8"
             fill="#dea584"
           />
@@ -146,9 +146,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="265.794"
+            x="236.2665"
             y="0"
-            width="178.37400000000002"
+            width="194.18399999999997"
             height="8"
             fill="#00B4AB"
           />
@@ -156,28 +156,28 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="444.168"
+            x="430.4505"
             y="0"
-            width="17.948999999999998"
+            width="23.5755"
             height="8"
-            fill="#083fa1"
+            fill="#9c4221"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="462.117"
+            x="454.02599999999995"
             y="0"
-            width="2.5575"
+            width="10.5555"
             height="8"
-            fill="#9c4221"
+            fill="#083fa1"
           />
         
       
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust - 6 hrs 53 mins
+        Rust - 5 hrs 37 mins
       </text>
     </g>
   
@@ -189,16 +189,16 @@
     </g>
   
     <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <circle cx="5" cy="6" r="5" fill="#9c4221" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 27 mins
+        TOML - 33 mins
       </text>
     </g>
   
     <g transform="translate(230, 50)">
-      <circle cx="5" cy="6" r="5" fill="#9c4221" />
+      <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TOML - 3 mins
+        Markdown - 15 mins
       </text>
     </g>
   
