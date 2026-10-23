@@ -138,7 +138,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="313.03799999999995"
+            width="265.794"
             height="8"
             fill="#00B4AB"
           />
@@ -146,9 +146,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="313.03799999999995"
+            x="265.794"
             y="0"
-            width="132.0135"
+            width="180.6525"
             height="8"
             fill="#dea584"
           />
@@ -156,9 +156,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="445.0514999999999"
+            x="446.4465"
             y="0"
-            width="9.2535"
+            width="8.4165"
             height="8"
             fill="#083fa1"
           />
@@ -166,9 +166,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="454.3049999999999"
+            x="454.863"
             y="0"
-            width="6.8355"
+            width="6.231"
             height="8"
             fill="#f1e05a"
           />
@@ -176,9 +176,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="461.1404999999999"
+            x="461.094"
             y="0"
-            width="1.9994999999999998"
+            width="1.8135"
             height="8"
             fill="#e38c00"
           />
@@ -186,9 +186,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="463.13999999999993"
+            x="462.90749999999997"
             y="0"
-            width="1.5810000000000002"
+            width="1.8135"
             height="8"
             fill="#9c4221"
           />
@@ -197,14 +197,14 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#00B4AB" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dart - 10 hrs 11 mins
+        Dart - 9 hrs 28 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust - 4 hrs 17 mins
+        Rust - 6 hrs 26 mins
       </text>
     </g>
   
